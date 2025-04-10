@@ -1,6 +1,8 @@
 # Gaza-Thesis
 # Gaza October ‘23 to June ‘24 A Critical Discourse Analysis of a Large Corpus of International News Headlines in English
 
+## See file 'Essay_Gaza' for the complete thesis
+
 # Overview of Research and Purpose
 
 This study aims to examine how various regions across the English-speaking world depict events involving the Gaza Strip in their news headlines from October 2023 to June 2024. Specifically, the objectives are to:
@@ -11,7 +13,7 @@ This study aims to examine how various regions across the English-speaking world
 
 By integrating methodologies from Critical Discourse Analysis (CDA), Corpus Linguistics (CL), and Natural Language Processing (NLP), this study explores how the media employs linguistic strategies to frame the Gaza conflict. Ultimately, the goal is to provide insights into what is being discussed and how it is being represented.
 
-This document supplements the methodology of using BERTopic to narrow-down all the headlines from the NOW corpus from October 2023 to June 2024 to just those relating to events surrounding the Gaza Strip. Please refer to the entire essay “Gaza October ‘23 to June ‘24 A Critical Discourse Analysis of a Large Corpus of International News Headlines in English” for more context. Specifically, this document adds to the methodology that addresses objective 1 above. 
+This document supplements the methodology of using BERTopic to narrow down all the headlines from the NOW corpus from October 2023 to June 2024 to just those relating to events surrounding the Gaza Strip. Please refer to the entire essay “Gaza October ‘23 to June ‘24 A Critical Discourse Analysis of a Large Corpus of International News Headlines in English” for more context. Specifically, this document adds to the methodology that addresses objective 1 above. 
 
 One of my goals was to minimize bias by avoiding the use of queries in the text corpus. Topic modeling, an unsupervised machine learning technique, enables the automatic identification and extraction of hidden topics or themes within large text datasets. To achieve this, I employed this natural language processing (NLP) method to address two objectives: (1) determine which headlines are relevant to Gaza, and (2) identify emerging topics.
 
